@@ -1,0 +1,13 @@
+personnelle :
+il est nessaisaire que vous...
+il est important que vous...
+il est vital que vous...
+
+il faut que vous...
+
+inpersonnelle:
+il est nessaisaire de + infinitif
+il est important de + infinitif
+il est vital de + infinitif
+
+il faut + infinitif

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a6f4f0180dc60aaa","type":"text","text":"- Non, Spring Core n'a pas besoin de Tomcat.\n- Spring 6 se concentre sur le support de Java 17+ et introduit de nouvelles fonctionnalités.\n- Spring contient un ensemble de frameworks.\n- Faux, les beans de Spring et les beans JavaEE sont différents.\n- @Controller est spécifique pour le traitement des requêtes web dans Spring MVC, tandis que @Component est plus générique.\n- Faux, les beans de Spring peuvent être configurés via XML ou annotations.\n- Glassfish supporte entièrement les spécifications Java EE, offrant un avantage pour utiliser JSTL par rapport à Tomcat qui est un conteneur de servlets.\n- Faux, pas besoin de créer une servlet explicite pour utiliser Spring MVC.\n- @RequestParam peut être utilisé dans les deux, GET et POST.\n- Redirect envoie un nouvel ordre de navigation au client, forward transfère la requête à une autre ressource sur le serveur.","x":100,"y":-200,"width":666,"height":297},
+		{"id":"24a1502c3fa7c23e","type":"file","file":"Pasted image 20240325091458.png","x":-460,"y":-200,"width":0,"height":0},
+		{"id":"89821ffd9475f5bf","type":"text","text":"Create i","x":-356,"y":140,"width":250,"height":60}
+	],
+	"edges":[]
+}

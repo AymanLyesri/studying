@@ -1,0 +1,1 @@
+c'est un equipment couche 3 qui fait le routage entre les machine et affecte les address IP a chaqun

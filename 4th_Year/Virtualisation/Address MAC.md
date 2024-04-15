@@ -1,0 +1,4 @@
+- L'adresse MAC permet de distinguer si c'est une adresse réseau ou une adresse machine.
+  - **192.167.1.0**: C'est une adresse réseau car elle se termine par 0.
+  - **192.167.1.10**: C'est une adresse machine car elle a une valeur spécifique, 10.
+- Un routeur doit avoir au moins deux interfaces pour pouvoir router le trafic entre différents réseaux.
