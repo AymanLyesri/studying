@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"45a6813381275255","x":-145,"y":-148,"width":305,"height":248,"type":"text","text":"# mon role qu'un ingenieur\n\n1. analyses des besoin\n2. conception\n3. le développement\n4. les tests\n5. le déploiement \n6. la maintenance\n7. la collaboration\n8. veille technologie"}
+	],
+	"edges":[]
+}

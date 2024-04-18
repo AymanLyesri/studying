@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "0f5bb39f13cbf921",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccd3cb5dd821abc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "744e5642157656bf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4th_Year/Virtualisation/Virtualisation.canvas",
+                "viewState": {
+                  "x": -571.688588224249,
+                  "y": 1075.2374592075578,
+                  "zoom": -0.8035175000981347
+                }
+              }
+            }
+          },
+          {
+            "id": "38b3326014af2239",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4th_Year/fr/cv.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfb53d906342307d",
+    "type": "split",
+    "children": [
+      {
+        "id": "139917499f647d4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ccce52e63bc8866",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31a6a7a09f985eda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e00b9d3fd6009e16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "12836a223e5a55bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7279303d51ebf5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e78fa1e518494f55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4th_Year/fr/cv.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ae39b16fbac1e7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4th_Year/fr/cv.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4df689223f8a0906",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ea71b1bf52cc3e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4th_Year/fr/cv.canvas"
+              }
+            }
+          },
+          {
+            "id": "7b31f2decebe5e5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "38b3326014af2239",
+  "lastOpenFiles": [
+    "4th_Year/fr/mon role comme un ingenieur.md",
+    "4th_Year/fr/cv.canvas",
+    "4th_Year/fr",
+    "4th_Year/Spring/pfa/Untitled.canvas",
+    "4th_Year/Virtualisation/Virtualisation.canvas",
+    "4th_Year/Spring/pfa",
+    "4th_Year/Spring/Control.canvas",
+    "Pasted image 20240325123305.png",
+    "Pasted image 20240325123230.png",
+    "Pasted image 20240325091458.png",
+    "4th_Year/Spring/Untitled.canvas",
+    "4th_Year/Spring",
+    "Pasted image 20240318121754.png",
+    "Pasted image 20240318121710.png",
+    "Pasted image 20240318120211.png",
+    "3eme_Anne/Economie/Franchise et Filiaire.md",
+    "4th_Year/Business/Control.canvas",
+    "Pasted image 20240318120040.png",
+    "Pasted image 20240318115429.png",
+    "Pasted image 20240318115324.png",
+    "Pasted image 20240318115304.png",
+    "4th_Year/Business/Controle.md",
+    "Controle.canvas",
+    "4th_Year/Business/Drawing 2024-03-18 11.06.31.excalidraw.md",
+    "4th_Year/Business/tp1.canvas",
+    "Untitled 2.md",
+    "Excalidraw/Drawing 2024-03-18 11.06.03.excalidraw.md",
+    "4th_Year/Business/tp1.md",
+    "4th_Year/Virtualisation/TP.md",
+    "4th_Year/Virtualisation/Virtual infrastructure.md",
+    "Excalidraw/japanese 101.excalidraw.md",
+    "ME.md",
+    "Excalidraw/Drawing 2024-02-21 19.57.57.excalidraw.md",
+    "Excalidraw/Japanese.md",
+    "Excalidraw/Drawing 2024-02-21 19.12.37.excalidraw.md",
+    "economie.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "4th_Year/Business",
+    "Router.canvas",
+    "4th_Year/Virtualisation/Address MAC.md",
+    "4th_Year/Virtualisation/Good & bad.md",
+    "4th_Year/Virtualisation/how does a physical router connect with a virtual router.md",
+    "4th_Year/Virtualisation/Notions Basics.md",
+    "4th_Year/Virtualisation/Router.md",
+    "4th_Year/Virtualisation/Schema.md",
+    "4th_Year/Virtualisation/Types.md",
+    "4th_Year/Virtualisation",
+    "4th_Year",
+    "fiverr/tasks.md",
+    "Untitled 1.md",
+    "fiverr",
+    "Internship/verification",
+    "Internship"
+  ]
+}
