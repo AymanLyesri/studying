@@ -7,10 +7,8 @@
 		{"id":"112f70491e8dc2df","type":"text","text":"## Machine virtuelle\n\nenvironement d'execution qui comport un system d'exploitation et materiel emulee\n\n**Composition**\n- disk dur virtuelle\n\tun fichier dans la machine physique par le system d'exploitation de VM\n- fichier de Configuration\n- materiel émulée\n\n**ESXI (hyperviseur)**\n- fichier de Configuration\n- disk dur virtuelle\n- Configuration NVRAM et fichier journal","x":1100,"y":-61,"width":263,"height":454},
 		{"id":"97486b0e6c7d5981","type":"text","text":"## Infrastructure virtuelle\npermet deploiment de toute les VMs dans un serveur physique\n\n\n**couche virtualisation \ncouche management\ncouche d accès**\n\n- 1er type de SE : virtualisation qui permet le deploiement de plusieurs vm dans le meme serveur -> esxi\n- 2eme type : virtualisation qui permet le deploiment de pulsiours reseaux dans l hyperviseur \n- 3eme : virtualisation du stockage\n\n\n**Étapes :**\n- installation\n- gestion du réseau\n- gestion du stockage","x":1552,"y":-48,"width":469,"height":428},
 		{"id":"d7b1c299b2d6d9b0","type":"text","text":"# Service Usuelle\n\nDHCP : effectue la designation automatic des address ip\n\nFTP : services de transfert de fichiers entre machines\n\nProxy : serveur qu on place a l'entree du reseau role est optimiser la bande passant permet aussi de blocker les urls","x":680,"y":-60,"width":300,"height":453},
-		{"id":"2c122ae22641ff58","type":"text","text":"# RAM vs STOCKAGE\nvm utilise le ram, reseau d'une facon temporaire,\nvirtualisation d'une facon permanente","x":2940,"y":114,"width":380,"height":105},
 		{"id":"74c745e2dfceb46b","type":"file","file":"Pasted image 20240311092655.png","x":1564,"y":-600,"width":445,"height":334},
-		{"id":"588279490cc2cde3","x":2360,"y":440,"width":478,"height":160,"type":"text","text":"# Type de Stockage (support)\n**Stockage interne**\nAccessible directement par un hyperviseur\n\n**Stockage externe**\nStockage accessible via le réseaux"},
-		{"id":"9860bcb861175862","x":2940,"y":331,"width":380,"height":98,"type":"text","text":"# Adapteur\nla couche entre le disque et SE"},
+		{"id":"9860bcb861175862","type":"text","text":"# Adapteur\nla couche entre le disque et SE","x":2940,"y":331,"width":380,"height":98},
 		{"id":"1d1912a9b24d1975","type":"text","text":"# virtualisation du stockage\n\nregrouper tous les suport de stockage phisique comme un seul support de stockage logique\n\n**Composants :**\n- support de stockage\n- adaptateur\n- system de fichier\n\n**Banque de donnes :**\nUn regroupement logique de plusieurs support de stockage physique accessible par le père system de fichier.\n","x":2360,"y":19,"width":478,"height":295},
 		{"id":"e1129e1ee88326e9","type":"file","file":"Pasted image 20240226101515.png","x":2101,"y":1293,"width":399,"height":332},
 		{"id":"683456aa50c5ef12","type":"text","text":"## Ports\n\n- Ethernet pour les machine\n- Console pour la configuration\n- Uplink, le port avec internet\n","x":2552,"y":927,"width":250,"height":232},
@@ -18,7 +16,17 @@
 		{"id":"fa7d6379b98b94a7","type":"text","text":"# SWITCH vs ROUTEUR\nrouteur fais le routage","x":1607,"y":760,"width":360,"height":107},
 		{"id":"463fd1f931c2c6fd","type":"file","file":"4th_Year/Virtualisation/Router.md","x":1034,"y":956,"width":396,"height":144},
 		{"id":"856e1001b0fc5035","type":"file","file":"4th_Year/Virtualisation/Address MAC.md","x":666,"y":1142,"width":488,"height":301},
-		{"id":"db75753e37fd11ed","type":"file","file":"4th_Year/Virtualisation/how does a physical router connect with a virtual router.md","x":1314,"y":1148,"width":448,"height":290}
+		{"id":"db75753e37fd11ed","type":"file","file":"4th_Year/Virtualisation/how does a physical router connect with a virtual router.md","x":1314,"y":1148,"width":448,"height":290},
+		{"id":"b13482c9cb96cf7f","type":"text","text":"# virtualization de vswitch","x":2360,"y":-60,"width":365,"height":50},
+		{"id":"9ee19c67289ec9f0","type":"text","text":"# Virtualistation de SE <- ESXI","x":2360,"y":-140,"width":400,"height":52},
+		{"id":"2c122ae22641ff58","type":"text","text":"# RAM vs STOCKAGE\nvm utilise le ram, reseau d'une facon temporaire,\nvirtualisation d'une facon permanente","x":2940,"y":209,"width":380,"height":105},
+		{"id":"0a77964bfe6417ee","type":"text","text":"# SAM (stockage as service)\nCest un équipement physique accessible via le réseau qui offre le service de stockage\n\nGaranti la sécurité de system de fichier de tous les VM connecte","x":2940,"y":7,"width":460,"height":160},
+		{"id":"6a3aa9dd3d07341a","type":"text","text":"# System fichier\nconvertir l emplacement logique avec l address physique","x":2398,"y":429,"width":402,"height":72},
+		{"id":"588279490cc2cde3","type":"text","text":"# Type de Stockage (support)\n**Stockage interne**\nAccessible directement par un hyperviseur\n\n**Stockage externe**\nStockage accessible via le réseaux","x":2360,"y":540,"width":478,"height":160},
+		{"id":"951e6b2a246e4a1d","x":1241,"y":1847,"width":459,"height":293,"type":"text","text":"# Project\n\n1. Sujet:\nDéploiement base cloud privée open-stack\n\n2. But:\n\t1. Cloud\n\t\t1. openStack : logiciel gratuit qui permet le déploiement de cloud\n\t2. installation d'openStack\n\t3. Configuration d'openStack"},
+		{"id":"a835c3c0448f7ab1","x":1637,"y":2040,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4caa7d6581d311f9","x":1660,"y":1964,"width":250,"height":60,"type":"text","text":""},
+		{"id":"eca998a54abb2872","x":1640,"y":1880,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"77107faa24e38f84","fromNode":"485cadd2e2f60db4","fromSide":"right","toNode":"82f1a4dbb7101459","toSide":"left"},
@@ -39,6 +47,10 @@
 		{"id":"362b21fa461258af","fromNode":"463fd1f931c2c6fd","fromSide":"right","toNode":"fa7d6379b98b94a7","toSide":"left"},
 		{"id":"b268beb6c908cce0","fromNode":"81c326d875540777","fromSide":"left","toNode":"fa7d6379b98b94a7","toSide":"right"},
 		{"id":"5aef6de8c18c15b5","fromNode":"1d1912a9b24d1975","fromSide":"bottom","toNode":"9860bcb861175862","toSide":"left"},
-		{"id":"0de28da3b4de0a4e","fromNode":"9860bcb861175862","fromSide":"left","toNode":"588279490cc2cde3","toSide":"top"}
+		{"id":"388596abe26ad472","fromNode":"97486b0e6c7d5981","fromSide":"right","toNode":"b13482c9cb96cf7f","toSide":"left"},
+		{"id":"94bba7bdf54b1384","fromNode":"97486b0e6c7d5981","fromSide":"right","toNode":"9ee19c67289ec9f0","toSide":"left"},
+		{"id":"b38af5a6f28ac516","fromNode":"6a3aa9dd3d07341a","fromSide":"top","toNode":"1d1912a9b24d1975","toSide":"bottom"},
+		{"id":"a85348f1d52137cc","fromNode":"6a3aa9dd3d07341a","fromSide":"top","toNode":"9860bcb861175862","toSide":"left"},
+		{"id":"eec8b171632f9101","fromNode":"1d1912a9b24d1975","fromSide":"right","toNode":"0a77964bfe6417ee","toSide":"left"}
 	]
 }

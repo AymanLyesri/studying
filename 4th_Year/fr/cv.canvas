@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"45a6813381275255","x":-145,"y":-148,"width":305,"height":248,"type":"text","text":"# mon role qu'un ingenieur\n\n1. analyses des besoin\n2. conception\n3. le développement\n4. les tests\n5. le déploiement \n6. la maintenance\n7. la collaboration\n8. veille technologie"}
+		{"id":"8f0aa405e3d874f2","x":-329,"y":-92,"width":629,"height":612,"type":"file","file":"4th_Year/fr/lettre de motivation.md"},
+		{"id":"45a6813381275255","type":"text","text":"# mon role qu'un ingenieur\n\n1. analyses des besoin\n2. conception\n3. le développement\n4. les tests\n5. le déploiement \n6. la maintenance\n7. la collaboration\n8. veille technologie","x":20,"y":-420,"width":305,"height":248},
+		{"id":"d3c82c4999d2e9f5","x":489,"y":71,"width":250,"height":60,"type":"text","text":"CV\n\nje suis tourne solution"}
 	],
 	"edges":[]
 }
