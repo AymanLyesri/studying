@@ -1,8 +1,15 @@
 {
 	"nodes":[
-		{"id":"8f0aa405e3d874f2","x":-329,"y":-92,"width":629,"height":612,"type":"file","file":"4th_Year/fr/lettre de motivation.md"},
+		{"id":"8f0aa405e3d874f2","type":"file","file":"4th_Year/fr/lettre de motivation.md","x":-329,"y":-92,"width":629,"height":612},
 		{"id":"45a6813381275255","type":"text","text":"# mon role qu'un ingenieur\n\n1. analyses des besoin\n2. conception\n3. le développement\n4. les tests\n5. le déploiement \n6. la maintenance\n7. la collaboration\n8. veille technologie","x":20,"y":-420,"width":305,"height":248},
-		{"id":"d3c82c4999d2e9f5","x":489,"y":71,"width":250,"height":60,"type":"text","text":"CV\n\nje suis tourne solution"}
+		{"id":"d3c82c4999d2e9f5","type":"text","text":"# Decrire votre personnalite\nJe suis une personne creative qui aime trouver de trouver des solution au problem innatendu","x":337,"y":-92,"width":363,"height":112},
+		{"id":"9db15650a50300f3","type":"text","text":"# Pour quoi vous voulez travailler dans entreprise non specialiste\ndevellopement transversalle\n","x":337,"y":40,"width":403,"height":206},
+		{"id":"88fc0f6706e45135","type":"text","text":"# Qu est ce vous souhaitez de trouvez dans ce post:\nenvironememn sait,\n","x":337,"y":246,"width":367,"height":110},
+		{"id":"8669cf99800265c3","x":337,"y":380,"width":250,"height":60,"type":"text","text":"13.\nil sagit de analyser lexistent souligner la demarch qui convient "},
+		{"id":"1f8e5f7aae78adf6","x":337,"y":460,"width":250,"height":60,"type":"text","text":"renumeration salariale\nentre 9000-11000\nsay 10000"},
+		{"id":"ce82c8d9d64972fc","x":337,"y":540,"width":250,"height":60,"type":"text","text":"j ai stagne et j ai compris que je dois changer l entreprise"},
+		{"id":"ccc113a3af5a170a","x":337,"y":615,"width":391,"height":85,"type":"text","text":"avez vous d autres proposition en cours\nj ai mais je prefer ne pas partager\nje prefer garder cette information\nje veux terminer les entretien"},
+		{"id":"9b3195816e47ee16","x":337,"y":720,"width":391,"height":100,"type":"text","text":"# evolution de profession\nc est une evolution constant\nil ya un danger mais ca"}
 	],
 	"edges":[]
 }
