@@ -28,11 +28,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "4th_Year/fr/cv.canvas",
+                "file": "4th_Year/Virtualisation/Virtualisation.canvas",
                 "viewState": {
-                  "x": 337.65000000000015,
-                  "y": 602.0774999999994,
-                  "zoom": 0
+                  "x": 4343.6885124926985,
+                  "y": 1765.2354131397526,
+                  "zoom": -0.7433333333333333
                 }
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4th_Year/fr/cv.canvas",
+                "file": "4th_Year/Virtualisation/Virtualisation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4th_Year/fr/cv.canvas",
+                "file": "4th_Year/Virtualisation/Virtualisation.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4th_Year/fr/cv.canvas"
+                "file": "4th_Year/Virtualisation/Virtualisation.canvas"
               }
             }
           },
@@ -160,11 +160,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,10 +181,10 @@
   },
   "active": "38b3326014af2239",
   "lastOpenFiles": [
-    "4th_Year/fr/lettre de motivation.md",
     "4th_Year/Virtualisation/Virtualisation.canvas",
-    "4th_Year/Spring/pfa/Untitled.canvas",
     "4th_Year/fr/cv.canvas",
+    "4th_Year/fr/lettre de motivation.md",
+    "4th_Year/Spring/pfa/Untitled.canvas",
     "4th_Year/fr/mon role comme un ingenieur.md",
     "4th_Year/fr",
     "4th_Year/Spring/pfa",
