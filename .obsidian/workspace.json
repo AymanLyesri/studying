@@ -28,17 +28,32 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "4th_Year/bigData/Untitled.canvas",
+                "viewState": {
+                  "x": -712.6362231539495,
+                  "y": -71.09507763166638,
+                  "zoom": 0.5555555725097654
+                }
+              }
+            }
+          },
+          {
+            "id": "8c8c2e6b28bd5c2c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "4th_Year/Virtualisation/Virtualisation.canvas",
                 "viewState": {
-                  "x": 4343.6885124926985,
-                  "y": 1765.2354131397526,
-                  "zoom": -0.7433333333333333
+                  "x": 2841.1971500813174,
+                  "y": 75.95097484368233,
+                  "zoom": -0.7777777099609378
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,9 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38b3326014af2239",
+  "active": "8c8c2e6b28bd5c2c",
   "lastOpenFiles": [
+    "Pasted image 20240526094739.png",
+    "Pasted image 20240526094643.png",
+    "4th_Year/bigData/Untitled.canvas",
     "4th_Year/Virtualisation/Virtualisation.canvas",
+    "4th_Year/bigData",
     "4th_Year/fr/cv.canvas",
     "4th_Year/fr/lettre de motivation.md",
     "4th_Year/Spring/pfa/Untitled.canvas",
@@ -202,7 +221,6 @@
     "Pasted image 20240318120040.png",
     "Pasted image 20240318115429.png",
     "Pasted image 20240318115324.png",
-    "Pasted image 20240318115304.png",
     "4th_Year/Business/Controle.md",
     "Controle.canvas",
     "4th_Year/Business/Drawing 2024-03-18 11.06.31.excalidraw.md",
@@ -222,7 +240,6 @@
     "Untitled.canvas",
     "Excalidraw",
     "4th_Year/Business",
-    "Router.canvas",
     "4th_Year/Virtualisation/Address MAC.md",
     "4th_Year/Virtualisation/Good & bad.md",
     "4th_Year/Virtualisation/how does a physical router connect with a virtual router.md",
@@ -234,7 +251,6 @@
     "4th_Year",
     "fiverr/tasks.md",
     "fiverr",
-    "Internship/verification",
-    "Internship"
+    "Internship/verification"
   ]
 }
