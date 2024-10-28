@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"576b4039976da984","type":"text","text":"# Auteur\nnom","x":60,"y":-240,"width":276,"height":120},
+		{"id":"3848d39a75285b06","type":"text","text":"# livre\n\nf_key **auteur**\npages","x":60,"y":-33,"width":276,"height":173},
+		{"id":"d4a9443ad5ac4c51","type":"text","text":"# ACID\n\n- **Atomicité** : Une transaction est tout ou rien.\n- **Cohérence** : Les données restent valides après chaque transaction.\n- **Isolation** : Les transactions simultanées ne s’interfèrent pas.\n- **Durabilité** : Les changements validés sont permanents, même après une panne.\n\n# Les **3V** du Big Data sont :\n\n1. **Volume**: Massive amounts of data.\n2. **Vélocité**: Speed of data generation and processing.\n3. **Variété**: Different types of data (structured, unstructured).\n\n##  disponibilité\n3 servers are enough for availability\n","x":-860,"y":-320,"width":640,"height":560},
+		{"id":"0f15a239bb98c517","type":"text","text":"# client\n\nf_key **livre**\nusername\npassword","x":-60,"y":280,"width":240,"height":173}
+	],
+	"edges":[
+		{"id":"20e6cb9532924dfc","fromNode":"576b4039976da984","fromSide":"bottom","toNode":"3848d39a75285b06","toSide":"top"},
+		{"id":"97002f29df2714ce","fromNode":"0f15a239bb98c517","fromSide":"right","toNode":"3848d39a75285b06","toSide":"left"}
+	]
+}
