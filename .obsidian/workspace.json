@@ -4,25 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "ccd3cb5dd821abc5",
+        "id": "4b5d5f363ba14b71",
         "type": "tabs",
         "children": [
           {
-            "id": "8c8c2e6b28bd5c2c",
+            "id": "6aaf41a1e2d7895d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "5th_year/MongoDb/exercice.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "5th_year/AWS/ALL.canvas",
+                "viewState": {
+                  "x": 60.798258164852236,
+                  "y": 157.99813374805598,
+                  "zoom": -0.5901883099466474
+                }
               },
-              "icon": "lucide-file",
-              "title": "exercice"
+              "icon": "lucide-layout-dashboard",
+              "title": "ALL"
+            }
+          },
+          {
+            "id": "32f3620d2f8401e7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "5th_year/AWS/ALL.canvas",
+                "viewState": {
+                  "x": 100,
+                  "y": 200,
+                  "zoom": -0.8422702955279928
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ALL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#risque",
+                "query": "tag:#Planification_du_management_des_couts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5
   },
   "right": {
     "id": "12836a223e5a55bd",
@@ -175,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,62 +209,62 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c8c2e6b28bd5c2c",
+  "active": "32f3620d2f8401e7",
   "lastOpenFiles": [
+    "5th_year/AWS/Drawing 2024-11-12 09.25.54.excalidraw.md",
+    "5th_year/AWS/ALL.canvas",
+    "5th_year/Project Manangement/projet/Chart Projet.md",
+    "5th_year/Project Manangement/Untitled.canvas",
+    "5th_year/Project Manangement/tp4/TP4-1.pdf",
+    "5th_year/Project Manangement/tp4/TD4-2.pdf",
+    "5th_year/Project Manangement/tp4/TD4-2-Reponse.md",
+    "5th_year/Project Manangement/tp4/TP4-2-Pert.md",
+    "5th_year/Project Manangement/Definitions.md",
+    "5th_year/Project Manangement/Devoir-1-new.pdf",
+    "5th_year/Project Manangement/Devoir-1.pdf",
+    "5th_year/Project Manangement/Type de projets.md",
+    "5th_year/Project Manangement/TP4.excalidraw",
+    "5th_year/Project Manangement/tp4/Livrement lissage.md",
+    "5th_year/Project Manangement/tp4/TD4-1-Reponse.md",
+    "5th_year/MongoDb/Modelisation_Reponse.md",
+    "5th_year/Project Manangement/Gestion de projet.md",
+    "5th_year/Project Manangement/Methodologies de gestion de projet.md",
+    "5th_year/Project Manangement/TD1-2.pdf",
+    "5th_year/MongoDb/Modelisation2.md",
+    "5th_year/MongoDb/Modelisation nosql.pdf",
     "5th_year/MongoDb/TP2.pdf",
-    "5th_year/MongoDb/exercice.md",
-    "5th_year/MongoDb/Untitled.canvas",
+    "5th_year/Project Manangement/projet",
+    "5th_year/ITIL/TP 3.md",
+    "5th_year/ITIL/ITILv4 - TD3.pdf",
     "5th_year/ITIL/TP 2.md",
-    "5th_year/ITIL/TP 1.md",
-    "5th_year/ITIL/Lesson 3_Four Dimension of Service management.pdf",
-    "5th_year/ITIL/Lesson 2_Key concepts of service management.pdf",
-    "5th_year/ITIL/Lesson 4_ITIL Service Value System.pdf",
-    "5th_year/ITIL/Lesson 5_ITIL management practices.pdf",
-    "5th_year/ITIL/Lesson 6_ITIL 4 Foundation Examination Format.pdf",
     "5th_year/ITIL/Untitled.canvas",
     "5th_year/ITIL/Definitions.md",
     "5th_year/ITIL/Dimentions.md",
-    "5th_year/Project Manangement/Devoir-1-new.pdf",
-    "5th_year/Project Manangement/lu2186466sral.tmp",
-    "5th_year/Project Manangement/Devoir-1-new.odt",
-    "5th_year/Project Manangement/lu2186466srah.tmp",
+    "Excalidraw/japanese 101.excalidraw.md",
     "5th_year/Standard/Untitled.canvas",
-    "5th_year/Standard/Quiz 1.md",
-    "5th_year/Project Manangement/Untitled.canvas",
-    "2024-10-09.md",
+    "5th_year/Untitled.md",
+    "Excalidraw/Drawing 2024-11-05 12.41.10.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-05 12.41.40.excalidraw.md",
+    "Pasted image 20241105125833.png",
+    "Pasted image 20241105125209.png",
+    "5th_year/Project Manangement/TP4.excalidraw.md",
+    "5th_year/Project Manangement/tp4/TP4.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-05 12.27.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-05 12.43.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-18 11.06.03.excalidraw.md",
+    "5th_year/MongoDb/Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20241007161146.png",
-    "5th_year/Project Manangement/Definitions.md",
-    "5th_year/Project Manangement/Type de projets.md",
-    "5th_year/Project Manangement/Methodologies de gestion de projet.md",
     "4th_Year/Virtualisation/Virtualisation.canvas",
     "4th_Year/bigData/Untitled.canvas",
     "Pasted image 20240526094739.png",
     "Pasted image 20240526094643.png",
     "4th_Year/fr/cv.canvas",
-    "4th_Year/fr/lettre de motivation.md",
     "4th_Year/Spring/pfa/Untitled.canvas",
-    "4th_Year/fr/mon role comme un ingenieur.md",
-    "4th_Year/Spring/Control.canvas",
     "Pasted image 20240325123305.png",
     "Pasted image 20240325123230.png",
     "Pasted image 20240325091458.png",
     "Pasted image 20240318121754.png",
-    "Pasted image 20240318121710.png",
-    "Pasted image 20240318120211.png",
-    "3eme_Anne/Economie/Franchise et Filiaire.md",
-    "Pasted image 20240318120040.png",
-    "4th_Year/Business/Controle.md",
-    "4th_Year/Business/Drawing 2024-03-18 11.06.31.excalidraw.md",
-    "Untitled 2.md",
-    "Excalidraw/Drawing 2024-03-18 11.06.03.excalidraw.md",
-    "4th_Year/Business/tp1.md",
-    "4th_Year/Virtualisation/TP.md",
-    "4th_Year/Virtualisation/Virtual infrastructure.md",
-    "Excalidraw/japanese 101.excalidraw.md",
-    "ME.md",
-    "Excalidraw/Drawing 2024-02-21 19.57.57.excalidraw.md",
-    "Excalidraw/Japanese.md",
-    "Excalidraw/Drawing 2024-02-21 19.12.37.excalidraw.md"
+    "Pasted image 20240318121710.png"
   ]
 }

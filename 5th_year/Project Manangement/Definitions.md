@@ -28,6 +28,9 @@ delais perimetre couts.
 #scope_creep : le perimetre du projet n'est pas maitrise.
 #exigence : est une representation d'un besoin.
 
+#echancie: livrable des ressource et deadline et les etape, shema pert
+
+#eract-type: difference entre deux element
 
 
 

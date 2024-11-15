@@ -17,3 +17,5 @@ itil foundation is an entry level certification
 
 #valeur: benaifice percue d'une partie prenante d'un produit
 #leader: ordre et motivation
+
+#holistique: en pensant en tous les dimension
