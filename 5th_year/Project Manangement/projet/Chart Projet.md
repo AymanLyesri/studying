@@ -41,8 +41,6 @@ Le périmètre du projet inclut :
 Sont exclus du périmètre :
 - La maintenance post-déploiement (qui fera l'objet d'un contrat distinct).
 - Les mises à jour de l'application après la livraison.
-
-WBS
 #### 5. **Structure de l'équipe**
 
 L’équipe projet sera composée de :
@@ -101,3 +99,90 @@ Le projet sera considéré comme réussi si :
 - **Client** : Représentant de Vélo Rabat
 
 A faire: WBS - perimetre
+
+---
+
+### **Work Breakdown Structure (WBS)**
+
+#### **1. Phase de Démarrage et Cadrage**
+
+1.1. Rencontre avec le client  
+1.2. Analyse du cahier des charges  
+1.3. Identification des besoins et contraintes spécifiques  
+1.4. Élaboration des spécifications fonctionnelles et techniques  
+1.5. Validation des spécifications avec le client
+
+---
+
+#### **2. Phase de Conception et Développement**
+
+##### **2.1. Conception technique**
+
+2.1.1. Architecture de l’application (front-end, back-end, API)  
+2.1.2. Design des interfaces utilisateur (UI/UX)  
+2.1.3. Choix des technologies (bibliothèques, frameworks, outils API)
+
+##### **2.2. Développement des fonctionnalités principales**
+
+2.2.1. Localisation des stations sur carte interactive  
+2.2.2. Disponibilité des vélos en temps réel par station  
+2.2.3. Gestion des abonnements utilisateurs (inscription, connexion, abonnement)
+
+##### **2.3. Développement des fonctionnalités secondaires**
+
+2.3.1. Notifications en temps réel pour faible disponibilité de vélos  
+2.3.2. Intégration des données météorologiques  
+2.3.3. Historique des locations et des trajets
+
+##### **2.4. Intégration des API et synchronisation**
+
+2.4.1. Intégration de l’API de cartographie  
+2.4.2. Synchronisation en temps réel des données des stations  
+2.4.3. Gestion des mises à jour en arrière-plan
+
+---
+
+#### **3. Phase de Tests**
+
+3.1. Tests d’intégration entre les modules (API, front-end, back-end)  
+3.2. Tests fonctionnels sur chaque fonctionnalité  
+3.3. Tests de performance sous différentes charges  
+3.4. Tests utilisateurs avec un groupe pilote  
+3.5. Correction et validation finale des bugs critiques
+
+---
+
+#### **4. Phase de Livraison et Formation**
+
+4.1. Préparation de la livraison (packaging, documentation)  
+4.2. Livraison de l’application au client  
+4.3. Formation des équipes Vélo Rabat à l’utilisation de l’application  
+4.4. Suivi post-livraison immédiat (période de stabilisation)
+
+---
+
+### **Périmètre**
+
+#### **Inclus dans le périmètre**
+
+1. **Développement d'une application multiplateforme** : Android et iOS.
+2. **Fonctionnalités principales** :
+    - Carte interactive pour localiser les stations.
+    - Affichage en temps réel de la disponibilité des vélos.
+    - Gestion des abonnements utilisateurs (création, modification, renouvellement).
+3. **Fonctionnalités secondaires (si validées)** :
+    - Notifications en temps réel.
+    - Intégration des données météorologiques.
+    - Historique des trajets.
+4. **Intégration d'API** pour la cartographie et la synchronisation des données.
+5. **Tests complets** pour garantir la qualité avant la livraison.
+6. **Formation** de l'équipe Vélo Rabat sur l’application.
+
+#### **Exclus du périmètre**
+
+1. Maintenance après livraison (sera traitée dans un contrat ultérieur).
+2. Développement de fonctionnalités additionnelles non mentionnées dans les objectifs.
+3. Gestion ou installation des infrastructures physiques (stations, capteurs IoT).
+
+---
+pert/gant livrable de qualite

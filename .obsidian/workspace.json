@@ -8,41 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6aaf41a1e2d7895d",
+            "id": "fd9046dbe4176e99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "5th_year/AWS/ALL.canvas",
-                "viewState": {
-                  "x": 60.798258164852236,
-                  "y": 157.99813374805598,
-                  "zoom": -0.5901883099466474
-                }
+                "file": "5th_year/Standard/quiz 23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "ALL"
+              "icon": "lucide-file",
+              "title": "quiz 23"
             }
           },
           {
-            "id": "32f3620d2f8401e7",
+            "id": "3ce33578d70a2dfa",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5th_year/AWS/ALL.canvas",
+                "file": "5th_year/Standard/Untitled.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": 200,
-                  "zoom": -0.8422702955279928
+                  "x": 738.5,
+                  "y": 520,
+                  "zoom": -2.470606694193975
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ALL"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Planification_du_management_des_couts",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,50 +206,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32f3620d2f8401e7",
+  "active": "fd9046dbe4176e99",
   "lastOpenFiles": [
-    "5th_year/AWS/Drawing 2024-11-12 09.25.54.excalidraw.md",
+    "5th_year/Standard/Untitled.canvas",
+    "5th_year/Standard/quiz 23.md",
+    "5th_year/Standard/05_27001LI_FR_Quiz.pdf",
+    "5th_year/Standard/05_27001LI_FR_Quizz.pdf",
+    "5th_year/Standard/ISO 27001 Lead Implementer FR v.9.0.pdf",
+    "5th_year/Standard/02_27001LI_FR_Etude de cas.pdf",
+    "5th_year/Standard/03_27001LI_FR_Exercices et devoir.pdf",
+    "5th_year/Standard/Quiz 1.md",
+    "5th_year/Project Manangement/tp.md",
+    "2024-12-03.md",
+    "Untitled.canvas",
+    "SCHOOL.md",
+    "text.md",
+    "Risque.md",
+    "5th_year/ITIL/ITILv4 - TD3.pdf",
+    "5th_year/Project Manangement/tp-gantt-pert.pdf",
+    "5th_year/Project Manangement/TP-gantt-pert.pdf",
+    "5th_year/Project Manangement/lu856736si0sp.tmp",
+    "5th_year/Project Manangement/tp-gant-pert.docx",
+    "Pasted image 20241203140957.png",
+    "Pasted image 20241203140949.png",
     "5th_year/AWS/ALL.canvas",
-    "5th_year/Project Manangement/projet/Chart Projet.md",
+    "5th_year/AWS/Drawing 2024-11-12 09.25.54.excalidraw.md",
+    "5th_year/Project Manangement/Methodologies de gestion de projet.md",
     "5th_year/Project Manangement/Untitled.canvas",
-    "5th_year/Project Manangement/tp4/TP4-1.pdf",
-    "5th_year/Project Manangement/tp4/TD4-2.pdf",
+    "5th_year/Project Manangement/Type de projets.md",
+    "5th_year/Project Manangement/td8/TD-8.md",
+    "5th_year/Project Manangement/projet/Chart Projet.md",
+    "Excalidraw/tp-8 diagrame ishikawa.md",
+    "Excalidraw/tp-8 diagrame ishikawa 1.md",
+    "Excalidraw/Untitled.md",
+    "Pasted image 20241202142427.png",
+    "5th_year/MongoDb/TP3.md",
+    "5th_year/MongoDb/Modelisation2.md",
+    "5th_year/MongoDb/Untitled.canvas",
+    "5th_year/Project Manangement/tp4/Livrement lissage.md",
+    "5th_year/Project Manangement/tp4/TD4-1-Reponse.md",
     "5th_year/Project Manangement/tp4/TD4-2-Reponse.md",
     "5th_year/Project Manangement/tp4/TP4-2-Pert.md",
     "5th_year/Project Manangement/Definitions.md",
-    "5th_year/Project Manangement/Devoir-1-new.pdf",
-    "5th_year/Project Manangement/Devoir-1.pdf",
-    "5th_year/Project Manangement/Type de projets.md",
-    "5th_year/Project Manangement/TP4.excalidraw",
-    "5th_year/Project Manangement/tp4/Livrement lissage.md",
-    "5th_year/Project Manangement/tp4/TD4-1-Reponse.md",
     "5th_year/MongoDb/Modelisation_Reponse.md",
     "5th_year/Project Manangement/Gestion de projet.md",
-    "5th_year/Project Manangement/Methodologies de gestion de projet.md",
-    "5th_year/Project Manangement/TD1-2.pdf",
-    "5th_year/MongoDb/Modelisation2.md",
-    "5th_year/MongoDb/Modelisation nosql.pdf",
-    "5th_year/MongoDb/TP2.pdf",
-    "5th_year/Project Manangement/projet",
     "5th_year/ITIL/TP 3.md",
-    "5th_year/ITIL/ITILv4 - TD3.pdf",
-    "5th_year/ITIL/TP 2.md",
     "5th_year/ITIL/Untitled.canvas",
-    "5th_year/ITIL/Definitions.md",
-    "5th_year/ITIL/Dimentions.md",
-    "Excalidraw/japanese 101.excalidraw.md",
-    "5th_year/Standard/Untitled.canvas",
-    "5th_year/Untitled.md",
-    "Excalidraw/Drawing 2024-11-05 12.41.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-05 12.41.40.excalidraw.md",
     "Pasted image 20241105125833.png",
     "Pasted image 20241105125209.png",
-    "5th_year/Project Manangement/TP4.excalidraw.md",
-    "5th_year/Project Manangement/tp4/TP4.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-05 12.27.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-05 12.43.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-18 11.06.03.excalidraw.md",
-    "5th_year/MongoDb/Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20241007161146.png",
     "4th_Year/Virtualisation/Virtualisation.canvas",
@@ -260,11 +261,7 @@
     "Pasted image 20240526094739.png",
     "Pasted image 20240526094643.png",
     "4th_Year/fr/cv.canvas",
-    "4th_Year/Spring/pfa/Untitled.canvas",
     "Pasted image 20240325123305.png",
-    "Pasted image 20240325123230.png",
-    "Pasted image 20240325091458.png",
-    "Pasted image 20240318121754.png",
-    "Pasted image 20240318121710.png"
+    "Pasted image 20240325123230.png"
   ]
 }
